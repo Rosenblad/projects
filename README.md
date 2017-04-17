@@ -132,6 +132,7 @@ __Wordpress__
 	- JavaScript (SPA utan något framework...)
 	- Photoshop
 - Backend
+	- Laravel
 	- PHP
 	- MySQL
 
